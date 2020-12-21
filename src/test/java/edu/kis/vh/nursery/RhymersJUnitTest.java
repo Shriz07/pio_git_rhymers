@@ -3,6 +3,8 @@ package edu.kis.vh.nursery;
 import org.junit.Assert;
 import org.junit.Test;
 
+//Kombinacja klawiszy alt + strzalka pozwala na poruszanie sie miedzy ostatnio otwieranymi plikami
+
 public class RhymersJUnitTest {
 
 	@Test
