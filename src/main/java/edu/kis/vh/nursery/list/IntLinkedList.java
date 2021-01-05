@@ -19,7 +19,7 @@ public class IntLinkedList {
 		return last == null;
 	}
 
-	public boolean isFull() {
+	/*public boolean isFull() {
 		return false;
 	}
 
@@ -35,6 +35,6 @@ public class IntLinkedList {
 		int ret = last.value;
 		last = last.prev;
 		return ret;
-	}
+	}*/
 
 }
